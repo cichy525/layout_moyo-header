@@ -1,3 +1,7 @@
+:root {
+  --blue-color: #00acdc;
+}
+
 body {
   margin: 0;
   font-family: Roboto, sans-serif;
@@ -31,10 +35,6 @@ header {
 
 .nav__item + .nav__item {
   margin-left: 20px;
-}
-
-:root {
-  --blue-color: #00acdc;
 }
 
 .is-active {
