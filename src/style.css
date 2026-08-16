@@ -11,7 +11,7 @@ header {
   padding-right: 50px;
 }
 
-.nav-list {
+.nav__list {
   display: flex;
   list-style: none;
   margin: 0;
